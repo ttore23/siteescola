@@ -1,12 +1,12 @@
 .cabecalho{
-    background-color: #383d58 ;
+    background-color: #11173a ;
     color: white;
     display: flex;
     justify-content: space-around;
 }
 .neymar{
   width: 200px;
-  position:relative;
+  position: relative;
   top: 50px;
   left: 150px;
 }
@@ -15,5 +15,10 @@
     margin: 0 16px;
     padding: 24px 0;
     font-size: 24px;
-
+}
+.bola-imagem{
+  width: 25%;
+}
+.escola{
+  background-image: linear-gradient(#11173a,#083a3b);
 }
